@@ -8,3 +8,6 @@ https://www.anaconda.com/download/
 ## Miniconda and Miniforge Download Link
 https://docs.conda.io/en/latest/miniconda.html
 https://github.com/conda-forge/miniforge
+
+## Create Conda Enviroment
+conda env create --file=enviroment.yaml
