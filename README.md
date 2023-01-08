@@ -10,4 +10,8 @@ https://docs.conda.io/en/latest/miniconda.html
 https://github.com/conda-forge/miniforge
 
 ## Create Conda Enviroment
-conda env create --file=enviroment.yaml
+conda env create --file environment.yaml
+
+## Open JupyterLab
+conda activate chulacv2022
+jupyter-notebook
