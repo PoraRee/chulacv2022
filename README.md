@@ -13,5 +13,5 @@ https://github.com/conda-forge/miniforge
 conda env create --file environment.yaml
 
 ## Open JupyterLab
-conda activate chulacv2022
+conda activate chulacv2022__
 jupyter-notebook
