@@ -122,3 +122,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# HW3 models
+structuredEdgeModel.yml.gz
+hed_pretrained_bsds.caffemodel
+deploy.prototxt
